@@ -16,10 +16,6 @@
         "url": "https://github.com/ixpantia/ixplorer"
     },
     {
-        "package": "cransays",
-        "url": "https://github.com/lockedata/cransays"
-    },
-    {
         "package": "rTLS",
         "url": "https://github.com/Antguz/rTLS"
     }
