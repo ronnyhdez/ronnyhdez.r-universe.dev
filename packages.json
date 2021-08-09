@@ -1,0 +1,26 @@
+[
+    {
+        "package": "introR",
+        "url": "https://github.com/ixpantia/introR"
+    },
+    {
+        "package": "gitear",
+        "url": "https://github.com/ixpantia/gitear"
+    },
+    {
+        "package": "lacrmr",
+        "url": "https://github.com/ixpantia/lacrmr"
+    },
+    {
+        "package": "ixplorer",
+        "url": "https://github.com/ixpantia/ixplorer"
+    },
+    {
+        "package": "cransays",
+        "url": "https://github.com/lockedata/cransays"
+    },
+    {
+        "package": "rTLS",
+        "url": "https://github.com/Antguz/rTLS"
+    }
+]
